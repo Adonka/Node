@@ -1,0 +1,2 @@
+# Node
+Write a simple global Typedef program, see text book pg146.  The structure has char MealName[20], char Ingredient1[10], char Ingredient2[30], float Rating,  The main program references the global structure assigns values using strcpy program statement to MealName="Pasta and Meat"   Ingredient1="Spaghetti"   Ingredient2="Meatballs with Eggs &amp; Bread Crumbs"   Rating= 98%.   Then use printf to display all values as a proper sentence on one line.  What did you notice about the data?
